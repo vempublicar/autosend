@@ -1,0 +1,36 @@
+{
+    "cliente_hash": "8f311f42b01994527d9239b784ab3312b127bce6",
+    "instancia": null,
+    "tabela": "fila_50503bea002c22d67ad399784ddf8d7283c6fa38_1",
+    "inicio_previsto": "2025-04-11 01:09:36",
+    "fim_previsto": "2025-04-11 01:10:36",
+    "mensagens_totais": 4,
+    "tempo_estimado": "1 minutos",
+    "dados": [
+        {
+            "id": 1,
+            "telefone": "5521988888888",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 2,
+            "telefone": "5521933334444",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 3,
+            "telefone": "5511922223333",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 4,
+            "telefone": "5521911112222",
+            "nome": "",
+            "tentativa": 0
+        }
+    ],
+    "finalizado": false
+}

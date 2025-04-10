@@ -1,0 +1,84 @@
+{
+    "cliente_hash": "8f311f42b01994527d9239b784ab3312b127bce6",
+    "instancia": null,
+    "tabela": "fila_f78236bf31d16c84f1092c79f88584211ae2cb69_1",
+    "inicio_previsto": "2025-04-11 01:15:43",
+    "fim_previsto": "2025-04-11 01:18:43",
+    "mensagens_totais": 12,
+    "tempo_estimado": "3 minutos",
+    "dados": [
+        {
+            "id": 1,
+            "telefone": "5511999999999",
+            "nome": "Jo\u00e3o Silva",
+            "tentativa": 0
+        },
+        {
+            "id": 2,
+            "telefone": "5511912345678",
+            "nome": "Carlos Souza",
+            "tentativa": 0
+        },
+        {
+            "id": 3,
+            "telefone": "5511911112222",
+            "nome": "Fernanda Rocha",
+            "tentativa": 0
+        },
+        {
+            "id": 4,
+            "telefone": "5511955556666",
+            "nome": "Bruna Martins",
+            "tentativa": 0
+        },
+        {
+            "id": 5,
+            "telefone": "5521977778888",
+            "nome": "Luciana Dias",
+            "tentativa": 0
+        },
+        {
+            "id": 6,
+            "telefone": "5521900001111",
+            "nome": "Carla Torres",
+            "tentativa": 0
+        },
+        {
+            "id": 7,
+            "telefone": "5521944445555",
+            "nome": "Camila Melo",
+            "tentativa": 0
+        },
+        {
+            "id": 8,
+            "telefone": "5521988889999",
+            "nome": "Patr\u00edcia Borges",
+            "tentativa": 0
+        },
+        {
+            "id": 9,
+            "telefone": "5511900009999",
+            "nome": "Felipe Souza",
+            "tentativa": 0
+        },
+        {
+            "id": 10,
+            "telefone": "5511933334444",
+            "nome": "Rafael Lima",
+            "tentativa": 0
+        },
+        {
+            "id": 11,
+            "telefone": "5511977778888",
+            "nome": "Diego Nunes",
+            "tentativa": 0
+        },
+        {
+            "id": 12,
+            "telefone": "5521999990000",
+            "nome": "Beatriz Ramos",
+            "tentativa": 0
+        }
+    ],
+    "finalizado": false
+}

@@ -1,0 +1,84 @@
+{
+    "cliente_hash": "8f311f42b01994527d9239b784ab3312b127bce6",
+    "instancia": null,
+    "tabela": "fila_12cded7cae1c7c7afe284cfae8faae549e7021be_1",
+    "inicio_previsto": "2025-04-11 01:12:42",
+    "fim_previsto": "2025-04-11 01:15:42",
+    "mensagens_totais": 12,
+    "tempo_estimado": "3 minutos",
+    "dados": [
+        {
+            "id": 1,
+            "telefone": "5511999999999",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 2,
+            "telefone": "5511912345678",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 3,
+            "telefone": "5511911112222",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 4,
+            "telefone": "5511955556666",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 5,
+            "telefone": "5521977778888",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 6,
+            "telefone": "5521900001111",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 7,
+            "telefone": "5521944445555",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 8,
+            "telefone": "5521988889999",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 9,
+            "telefone": "5511900009999",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 10,
+            "telefone": "5511933334444",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 11,
+            "telefone": "5511977778888",
+            "nome": "",
+            "tentativa": 0
+        },
+        {
+            "id": 12,
+            "telefone": "5521999990000",
+            "nome": "",
+            "tentativa": 0
+        }
+    ],
+    "finalizado": false
+}

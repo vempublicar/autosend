@@ -48,9 +48,9 @@
       </a>
       <div class="collapse" id="autosend">
         <ul class="nav flex-column sub-menu">
-          <li class="nav-item"><a class="nav-link" href="dashboard&page=criar-campanha">Criar Campanha</a></li>
-          <li class="nav-item"><a class="nav-link" href="dashboard&page=programar-envio">Programar Envio</a></li>
-          <li class="nav-item"><a class="nav-link" href="dashboard&page=enviados">Enviados</a></li>
+          <li class="nav-item"><a class="nav-link" href="dashboard&page=create-campaign">Criar Campanha</a></li>
+          <li class="nav-item"><a class="nav-link" href="dashboard&page=send">Programar Envio</a></li>
+          <li class="nav-item"><a class="nav-link" href="dashboard&page=sending">Enviados</a></li>
         </ul>
       </div>
     </li>

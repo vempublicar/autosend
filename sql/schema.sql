@@ -29,6 +29,8 @@ CREATE TABLE IF NOT EXISTS contatos (
   grupoA TEXT,
   grupoB TEXT,
   grupoC TEXT,
+  campanha_ativa TEXT,  
+  data_envio TEXT,
   notifica TEXT,
   arquivo_extra TEXT,
   gpt BOOLEAN,  
@@ -47,7 +49,9 @@ CREATE TABLE IF NOT EXISTS leads (
   data_contato TEXT,
   data_resposta TEXT,
   data_alteracao TEXT,
+  grupoA TEXT,
   grupoB TEXT,
+  grupoC TEXT,
   data_criacao TEXT DEFAULT CURRENT_TIMESTAMP
 );
 
@@ -60,6 +64,9 @@ CREATE TABLE IF NOT EXISTS campanhas (
     filtros TEXT,
     origem TEXT,
     mensagem TEXT,
+    qtde_numeros TEXT,
+    info TEXT,
+    gpt BOOLEAN,
     criada_em TEXT DEFAULT CURRENT_TIMESTAMP
 );
 
